@@ -6,13 +6,13 @@ The portal includes advanced search and filtering options to enhance the job-hun
 
 To enhance security and provide robust user authentication, Firebase Authentication was integrated, ensuring a smooth and reliable login and registration process. Tailwind CSS was utilized to design a clean and responsive user interface, delivering a modern look and feel to the platform.
 
-**Key Features**
+**Key Features**<br>
 Job Seekers: Explore job opportunities with advanced search capabilities and filtering options to find the perfect match.<br>
 Employers: Post job openings with ease, manage listings, and connect with potential candidates efficiently.<br>
 User Authentication: Secured login and registration powered by Firebase Authentication.<br>
 Responsive Design: Built with Tailwind CSS to ensure compatibility across devices, providing an optimal experience for all users.
 
-**Technologies Used**
+**Technologies Used**<br>
 Frontend: React.js, Tailwind CSS<br>
 Backend: Node.js, Express.js<br>
 Database: MongoDB<br>
